@@ -28,7 +28,7 @@ After you fork the repo, you should be able to see _webmapping\_unit-1_ in your 
 
 ![figure1.1.png](img/figure1.1.png)
 
-###### Figure 1.1: Forking the _unit-1_ repo from the _webmapping\_unit-1_ page.
+###### Figure 0.1: Forking the _unit-1_ repo from the _webmapping\_unit-1_ page.
 
 You can sync an update by clicking the "Compare" button (Figure 0.2). <ins>_**Note:**_</ins> You will not need to merge any updates immediately after forking in Chapter 02, so the following instructions are for reference only.
 
